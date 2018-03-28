@@ -46,3 +46,7 @@ body{
     opacity: 1;
     right: 0;
 }
+
+#star{
+    background-image: url("../images/stars.jpg")
+}
