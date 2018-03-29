@@ -1,5 +1,17 @@
+/* sets the background image for the title page */
 #mani{
     background-image: url("../images/illusion.png");
+
+}
+
+#mani2{
+    background-color: rgba( 0 , 0 , 0 , 0);
+
+
+}
+/* I'm trying to hide the element, and it pops up once the win condition is meet in javascripts */
+#endgame{
+    display: hidden;
 }
 /* This is that cool button I got off W3 schools */
 .button{
